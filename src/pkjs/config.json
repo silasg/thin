@@ -17,7 +17,7 @@
               "value": "dark" 
             },
             { 
-              "label": "Light (extended)", 
+              "label": "Light", 
               "value": "light" 
             }
           ]
@@ -35,7 +35,7 @@
           {
           "type": "radiogroup",
           "messageKey": "PERSIST_KEY_DATE_STYLE",
-            "defaultValue" : "dark",
+            "defaultValue" : "all",
           "options": [
             { 
               "label": "Don't show any date", 
